@@ -14,6 +14,8 @@ The files included in this repository include:
 
 **.gitignore** - GitHub file which may be ignored. 
 
+**FluorMod_v4_Tutorial.pdf** - A PDF of the FluorMod tutorial. 
+
 This GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use.
 
 Refer any questions or issues to Chris Osburn, closburn@ncsu.edu. 
